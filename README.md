@@ -32,9 +32,31 @@
 </p>
 
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://discord.com/users/naman gayakwad#9452" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Naman-Gayakwad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naman-gayakwad-75205a1a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center">
+    <emphasis>Y O U &nbsp; C A N &nbsp; F I N D &nbsp; M E &nbsp; ON &nbsp; 😁</emphasis><br>
+    <a href="https://discord.com/users/766554400675201025">
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="Discord">
+    </a>
+    <a href="mailto:namangayakwad089@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/naman-gayakwad-75205a1a0">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
+            alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+            alt="Github">
+    </a>
+    <a href="https://leetcode.com/Naman-Gayakwad/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"
+            alt="leetcode">
+    </a>
+</p>
 
 ### Badges
 
