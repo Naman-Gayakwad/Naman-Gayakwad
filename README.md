@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naman Gayakwad
-======================================================================================================================================
-
-Ultra Full Stack Developer From India
--------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=10&multiline=true&width=750&height=80&lines=Yo!+%F0%9F%A4%98%2C+I'm+Naman+Gayakwad;Ultra+Full+Stack+Developer+From+India)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Betul
 * ✉️  You can contact me at [namangayakwad089@gmail.com](mailto:namangayakwad089@gmail.com)
