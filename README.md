@@ -45,15 +45,15 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/naman-gayakwad-75205a1a0">
+    <a href="https://www.linkedin.com/in/namangayakwad-75205a1a0">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
             alt="LinkedIn">
     </a>
-    <a href="https://github.com/Naman-Gayakwad">
+    <a href="https://github.com/NamanGayakwad">
         <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
             alt="Github">
     </a>
-    <a href="https://leetcode.com/Naman-Gayakwad/">
+    <a href="https://leetcode.com/NamanGayakwad/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"
             alt="leetcode">
     </a>
@@ -68,26 +68,26 @@
 </p>
 
 <p align="center">
-        <a href="http://www.github.com/Naman-Gayakwad">
-                <img src="https://github-readme-stats.vercel.app/api?username=Naman-Gayakwad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+        <a href="http://www.github.com/NamanGayakwad">
+                <img src="https://github-readme-stats.vercel.app/api?username=NamanGayakwad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
                         alt="Naman-Gayakwad's GitHub stats" />
         </a>
 </p>
 
 <p align="center">
-        <a href="http://www.github.com/Naman-Gayakwad">
+        <a href="http://www.github.com/NamanGayakwad">
                 <img
-                        src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-Gayakwad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+                        src="https://github-readme-streak-stats.herokuapp.com/?user=NamanGayakwad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
         </a>
 </p>
 
 <p align="center">
-        <a href="https://github.com/Naman-Gayakwad" align="left">
+        <a href="https://github.com/NamanGayakwad" align="left">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Gayakwad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
                         alt="Top Languages" />
         </a>
 </p>
 <p align="center">
         <br><br>
-        <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Naman-Gayakwad"></a>
+        <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NamanGayakwad"></a>
 </p>
