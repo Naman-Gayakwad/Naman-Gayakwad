@@ -89,5 +89,5 @@
 </p>
 <p align="center">
         <br><br>
-        <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NamanGayakwad"></a>
+        <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Naman-Gayakwad"></a>
 </p>
