@@ -6,7 +6,7 @@
 * 🧠  I'm learning Flutter and Firebase
 * 🤝  I'm open to collaborating on Websites and Flutter apps
 * :octocat: Most of my projects are available on <a href="https://github.com/Naman-Gayakwad">Github</a>
-* ⚡  Disciple of Programming Gods
+* ⚡  Versatility
 
 ### Skills
 
