@@ -5,7 +5,7 @@
 * ✉️  You can contact me at [namangayakwad089@gmail.com](mailto:namangayakwad089@gmail.com)
 * 🧠  Flutter and Firebase Application developer
 * 🤝  I'm open to collaborating on Websites and Flutter apps
-* :octocat: Most of my projects are available on <a href="https://github.com/Naman-Gayakwad">Github</a>
+* :octocat:  Most of my projects are available on <a href="https://github.com/Naman-Gayakwad">Github</a>
 * ⚡  Versatility
 
 ### Skills
